@@ -1,0 +1,16 @@
+C:\WORK\REPO\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\net5.0\StaticKeywordExercise.exe
+C:\WORK\REPO\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\net5.0\StaticKeywordExercise.deps.json
+C:\WORK\REPO\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\net5.0\StaticKeywordExercise.runtimeconfig.json
+C:\WORK\REPO\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\net5.0\StaticKeywordExercise.runtimeconfig.dev.json
+C:\WORK\REPO\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\net5.0\StaticKeywordExercise.dll
+C:\WORK\REPO\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\net5.0\ref\StaticKeywordExercise.dll
+C:\WORK\REPO\StaticKeywordExercise\StaticKeywordExercise\bin\Debug\net5.0\StaticKeywordExercise.pdb
+C:\WORK\REPO\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\net5.0\StaticKeywordExercise.csproj.AssemblyReference.cache
+C:\WORK\REPO\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\net5.0\StaticKeywordExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\REPO\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\net5.0\StaticKeywordExercise.AssemblyInfoInputs.cache
+C:\WORK\REPO\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\net5.0\StaticKeywordExercise.AssemblyInfo.cs
+C:\WORK\REPO\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\net5.0\StaticKeywordExercise.csproj.CoreCompileInputs.cache
+C:\WORK\REPO\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\net5.0\StaticKeywordExercise.dll
+C:\WORK\REPO\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\net5.0\ref\StaticKeywordExercise.dll
+C:\WORK\REPO\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\net5.0\StaticKeywordExercise.pdb
+C:\WORK\REPO\StaticKeywordExercise\StaticKeywordExercise\obj\Debug\net5.0\StaticKeywordExercise.genruntimeconfig.cache
