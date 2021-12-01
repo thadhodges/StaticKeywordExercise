@@ -8,14 +8,9 @@ namespace StaticKeywordExercise
 {
     public class CarLot
     {
-        public CarLot()
-        {
-        }
+        
 
-        public newCar()
-        {
-            
-        }
+       
 
         public static int numberOfCars;
     }
